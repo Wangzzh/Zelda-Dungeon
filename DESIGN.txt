@@ -1,0 +1,8 @@
+1. Logline for custom level: Mirrored Link and enemies
+2. Logline for custom mechanic: Mirrored Link will always move opposite to the actual Link, and enemies can only be attacked by either mirrored or actual Link. Both Links share inventory, weapons and health.
+3. Game players should plan movement for both Links, and makes it more difficult to attack enemies since enemies can only be attacked by one of the Links.
+4. How to attack enemies with one link while keep the another Link safe in a shelter? Which Link should go first and attack?
+5. A level introducing movement of mirrored Link. A level showing that enemies can only be attacked by one of the Links. After that, some really sophisticated levels that test the cooperation of the two Links.
+
+* We decided to fix the weapons that are avaiable in the mirrored mode to reach the best difficulty. We want to have ranged attacks so we limit the weapons to arrows.
+

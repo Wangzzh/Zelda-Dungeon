@@ -1,0 +1,5 @@
+Controls:
+arrow keys for movement
+z x for attacking
+1 for cheating mode (fill inventory and weapons, invincibility)
+2 3 4 for changing weapons (if you have already obtained the weapon from game / cheating mode £¨cannot changing weapon for mirror mode£©)
